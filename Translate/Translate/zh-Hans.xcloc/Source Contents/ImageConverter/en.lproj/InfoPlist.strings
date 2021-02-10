@@ -1,0 +1,8 @@
+/* Bundle display name */
+"CFBundleDisplayName" = "Converter jpg&png";
+/* Bundle name */
+"CFBundleName" = "ImageConverter";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "Add Saved Image in Photo Library";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "Select Image From Photo Library";
